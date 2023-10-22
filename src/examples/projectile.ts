@@ -18,8 +18,6 @@ function tick(env: Environment, proj: Projectile): Projectile {
 }
 
 
-
-
 function simulation() {
 
 	let proj: Projectile = {
