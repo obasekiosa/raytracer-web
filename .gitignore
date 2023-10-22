@@ -3,6 +3,8 @@
 #vim
 **/*.swp
 
+/generated
+
 # dependencies
 /node_modules
 /.pnp
